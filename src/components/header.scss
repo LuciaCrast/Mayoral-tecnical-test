@@ -1,0 +1,29 @@
+.header {
+  border-bottom: solid 2px #e7e5e5;
+  &__buttonsWrapper {
+    display: flex;
+    justify-content: center;
+  }
+  &__minus {
+    color: #f3f1f0;
+    font-size: 30px;
+    padding: 6px;
+  }
+  &__plus {
+    color: #e5e4e3;
+    font-size: 30px;
+    padding: 6px;
+  }
+}
+@media (min-width: 768px) {
+  .header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: none;
+
+    &__buttonsWrapper {
+      order: 2;
+    }
+  }
+}
