@@ -1,0 +1,48 @@
+.element {
+  margin: 20px 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgba(141, 195, 202, 0.582);
+  border-radius: 6px;
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+  font-family: "Quicksand", sans-serif;
+  color: rgb(59, 58, 58);
+  font-size: 14px;
+
+  &__img {
+    max-width: 75vw;
+  }
+  &__name {
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 5px 0 20px 0;
+    min-height: 70px;
+  }
+  &__moreColours {
+    visibility: hidden;
+    color: grey;
+    font-size: 12px;
+  }
+  &__button {
+    text-transform: uppercase;
+    min-width: 90px;
+    height: 30px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background-color: #2a71ce;
+    box-shadow: 0 3px 1px -2px #ccc, 0 2px 2px 0 #ccc, 0 1px 5px 0 #ccc;
+  }
+  &__button:active {
+    box-shadow: 0 4px 2px -3px #ccc, 0 4px 5px 1px #ccc, 0 2px 7px 1px #ccc;
+  }
+}
