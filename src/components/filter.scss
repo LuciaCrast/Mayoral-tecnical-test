@@ -1,0 +1,23 @@
+.sectionSearch {
+  &__input {
+    border-radius: 6px;
+    border: solid 3px rgb(219, 219, 219);
+    height: 30px;
+    width: 75vw;
+    padding-left: 3px;
+    margin: 6px 6px 20px 6px;
+  }
+  ::placeholder {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 700;
+    word-spacing: 8px;
+  }
+}
+@media (min-width: 768px) {
+  .sectionSearch {
+    &__input {
+      margin-top: 13px;
+      width: 400px;
+    }
+  }
+}
