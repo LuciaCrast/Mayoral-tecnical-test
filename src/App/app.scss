@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  background-color: white;
+}
+a {
+  color: black;
+}
+button {
+  cursor: pointer;
+}
+
+.app {
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+@media (min-width: 768px) {
+  .app {
+    margin: 10px;
+  }
+}
