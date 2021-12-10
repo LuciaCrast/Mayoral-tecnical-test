@@ -1,0 +1,87 @@
+[
+  {
+      "id":1,
+      "name":"Trenka niño",
+      "price":49.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/trenka-nino_id_11-55408-700-M-4.JPG?v=20211019050423"
+    },
+    {
+      "id":2,
+      "name":"Chaquetón bomber largo niño",
+      "price":47.99,
+      "discounted": "38,39€(20%)",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton-bomber-largo-nino_id_11-04417-045-M-4.JPG?v=20210720050036"
+    },
+      {
+      "id":3,
+      "name":"Chaquetón brillante niño",
+      "price":49.99,
+      "discounted": "39,99€(20%)",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton-brillante-nino_id_11-04421-067-M-4.JPG?v=20210716101932"
+    },
+      {
+      "id":4,
+      "name":"Parka capucha de pelo niño",
+      "price":54.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/parka-capucha-de-pelo-nino_id_11-04416-040-M-4.JPG?v=20210730111832"
+    },
+      {
+      "id":5,
+      "name":"Chaquetón colegial básico niño",
+      "price":34.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton--colegial-basico-nino_id_11-00412-022-M-4.JPG?v=20210827045333"
+    },
+      {
+      "id":6,
+      "name":"Chaquetón acolchado rombos niño",
+      "price":49.99,
+      "discounted": "39,99€(20%)",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton-acolchado-rombos-nino_id_11-04414-916-M-4.JPG?v=20211112140009"
+    },
+      {
+      "id":7,
+      "name":"Chaquetón vivos niño",
+      "price":47.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton-vivos-nino_id_11-04415-023-M-4.JPG?v=20210716101930"
+    },
+      {
+      "id":8,
+      "name":"Chaquetón acolchado rombos niño",
+      "price":49.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton-acolchado-rombos-nino_id_11-04414-017-M-4.JPG?v=20210729043400"
+    },
+      {
+      "id":9,
+      "name":"Trenka niño",
+      "price":59.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/trenka-nino_id_11-04422-072-M-4.JPG?v=20210729043405"
+    },
+      {
+      "id":10,
+      "name":"Chaquetón colegial básico niño",
+      "price":34.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton--colegial-basico-nino_id_11-00412-024-M-4.JPG?v=20210827045331"
+    },
+      {
+      "id":11,
+      "name":"Chaquetón efecto pluma niño",
+      "price":39.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton-efecto-pluma--nino_id_11-04420-062-M-4.JPG?v=20210730111927"
+    },
+      {
+      "id":12,
+      "name":"Chaquetón colegial básico niño",
+      "price":34.99,
+      "discounted": "",
+       "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/chaqueton--colegial-basico-nino_id_11-00412-023-M-4.JPG?v=20210827045331"
+    }
+
+]
